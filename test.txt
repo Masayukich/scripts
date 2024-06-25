@@ -1,2 +1,3 @@
-code = 228, name = 'Lol',
-code = 1337, name = 'Penis',
+code = 4014260883, name = 'me',
+code = 2891977754, name = 'bobol',
+code = 2691451421, name = 'ans',
