@@ -1,2 +1,2 @@
-[228] = 'test',
-[1337] = 'another test',
+code = 228, name = 'Lol',
+code = 1337, name = 'Penis',
