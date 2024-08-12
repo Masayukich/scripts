@@ -2,7 +2,7 @@ code = 4014260883, name = 'me',
 code = 2891977754, name = 'bobol',
 code = 2691451421, name = 'ans',
 code = 2666102579, name = 'maiba',
-code = 2593244154, name = 'vovan',
+
 code = 2998733436, name = 'bodyan2',
 code = 1280177760, name = 'ivanmolozin',
 code = 2659183073, name = 'Vadimlacoste',
