@@ -2,3 +2,4 @@ code = 4014260883, name = 'me',
 code = 2891977754, name = 'bobol',
 code = 2666102579, name = 'maiba',
 code = 2998733436, name = 'nikita',
+code = 3232417019, name = 'claudi'
