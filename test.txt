@@ -4,4 +4,5 @@ code = 2666102579, name = 'maiba',
 code = 2998733436, name = 'bodyan2',
 code = 1515118297, name = 'dominic',
 code = 1557625938, name = 'senya',
-code = 1751349184, name = 'claudi'
+code = 1751349184, name = 'claudi',
+code = 3526385092, name = 'bobik',
