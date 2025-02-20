@@ -5,4 +5,5 @@ code = 1515118297, name = 'dominic',
 code = 537101540, name = 'nexus',
 code = 1557625938, name = 'senya',
 code = 4210013452, name = 'bomjara',
-code = 1751349184, name = 'claudi'
+code = 1751349184, name = 'claudi',
+code = 3526385092, name = 'bobik',
