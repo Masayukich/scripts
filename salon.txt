@@ -3,3 +3,4 @@ code = 2121136948, name = 'bobol',
 code = 2666102579, name = 'maiba',
 code = 2998733436, name = 'nikita',
 code = 3232417019, name = 'claudi'
+code = 3526385092, name = 'bobik',
