@@ -6,3 +6,4 @@ code = 1557625938, name = 'senya',
 code = 4210013452, name = 'bomjara',
 code = 3526385092, name = 'bobik',
 code = 2056540085, name = 'sigarety',
+code = 170741275, name = 'ars'
